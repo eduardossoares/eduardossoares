@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Apaixonado por desenvolvimento de software.<br><br>📚 Atualmente estou estudando JavaScript e Bootstrap.</p>
+<p align="left">✨ Apaixonado por desenvolvimento de software.<br><br>📚 Atualmente estou estudando JavaScript.</p>
 
 ###
 
