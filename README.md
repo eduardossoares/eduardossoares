@@ -2,10 +2,6 @@
 
 ###
 
-<p align="center">"O que sabemos é uma gota, o que não sabemos é um oceano"</p>
-
-###
-
 <h2 align="left">Sobre mim</h2>
 
 ###
