@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">Tecnologias</h2>
+<h2 align="left">Stacks</h2>
 
 ###
 
