@@ -4,10 +4,6 @@
 
 ###
 
-<h2 align="left">Sobre mim</h2>
-
-###
-
 <p align="left">🌎 Desenvolvedor Front-End.<br><br>✨ Entusiasta da Tecnologia.</p>
 
 ###
