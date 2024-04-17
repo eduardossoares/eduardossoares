@@ -1,4 +1,4 @@
-<h2 align="left">Oii, eu sou o Eduardo Soares! 👋</h2>
+<h2 align="left">Olá, eu sou o Eduardo! 👋</h2>
 
 ###
 
