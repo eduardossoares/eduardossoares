@@ -1,4 +1,5 @@
 <h2 align="left">Olá, eu sou o Eduardo! 👋</h2>
+<p align="left">📚 Atualmente estou estudando Angular e TypeScript!</p>
 
 ###
 
