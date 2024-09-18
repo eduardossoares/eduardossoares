@@ -1,4 +1,6 @@
-<p align="center">Desenvolvedor Front-End <br><br> Apaixonado por resolver desafios do front end com soluções criativas e eficientes. Como desenvolvedor júnior, estou sempre buscando aprimorar minhas habilidades técnicas e adquirir novas experiências, especialmente na criação de interfaces intuitivas e funcionais, utilizando as melhores práticas do desenvolvimento ágil.</p>&nbsp;
+## Desenvolvedor Front-end
+
+<p align="center">Apaixonado por resolver desafios do front end com soluções criativas e eficientes. Como desenvolvedor júnior, estou sempre buscando aprimorar minhas habilidades técnicas e adquirir novas experiências, especialmente na criação de interfaces intuitivas e funcionais, utilizando as melhores práticas do desenvolvimento ágil.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=eduardossoares&theme=radical&mode=weekly" />
