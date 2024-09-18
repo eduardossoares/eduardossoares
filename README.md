@@ -3,8 +3,7 @@
 <p>Apaixonado por resolver desafios do front end com soluções criativas e eficientes. Como desenvolvedor júnior, estou sempre buscando aprimorar minhas habilidades técnicas e adquirir novas experiências, especialmente na criação de interfaces intuitivas e funcionais, utilizando as melhores práticas do desenvolvimento ágil.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=eduardossoares&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-eduardossoares.vercel.app/api/top-langs/?username=eduardossoares&show_icons=true&theme=radical&layout=compact" />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardossoares&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
  </div>
  
  &nbsp;
