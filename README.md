@@ -2,18 +2,6 @@
 
 <p>Apaixonado por resolver desafios do front end com soluções criativas e eficientes. Como desenvolvedor júnior, estou sempre buscando aprimorar minhas habilidades técnicas e adquirir novas experiências, especialmente na criação de interfaces intuitivas e funcionais, utilizando as melhores práticas do desenvolvimento ágil.</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=eduardossoares&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=eduardossoares&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardossoares&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=eduardossoares&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
 ## Minhas Skills
 
 #### Principais tecnologias:
