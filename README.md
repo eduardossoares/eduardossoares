@@ -1,5 +1,6 @@
 ## Desenvolvedor Front-end
 <p>Apaixonado por resolver desafios do front end com soluções criativas e eficientes. Como desenvolvedor júnior, estou sempre buscando aprimorar minhas habilidades técnicas e adquirir novas experiências, especialmente na criação de interfaces intuitivas e funcionais, utilizando as melhores práticas do desenvolvimento ágil.</p>&nbsp;
+
 ## Minhas Skills
 
 #### Principais tecnologias:
